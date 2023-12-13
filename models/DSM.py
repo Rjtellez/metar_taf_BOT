@@ -15,11 +15,11 @@ class Insert:
         report = report
         # Configuración de la conexión a la base de datos
         conexion = psycopg2.connect(
-            user='postgres',
-            password='dsm_services12345',
-            host='localhost',
-            port='5432',
-            database='dsm_data'
+            user= os.getenv("DB_USER"),
+            password= os.getenv("DB_PASSWORD"),
+            host= os.getenv("DB_HOST"),
+            port= os.getenv("DB_PORT"),
+            database= os.getenv("DB_NAME")
         )
 
         # Abre un cursor para ejecutar operaciones en la base de datos
@@ -160,11 +160,11 @@ class Get:
     def get_last(self, codigo_aeropuerto):
     # Configuración de la conexión a la base de datos
         conexion = psycopg2.connect(
-            user='postgres',
-            password='dsm_services12345',
-            host='localhost',
-            port='5432',
-            database='dsm_data'
+            user= os.getenv("DB_USER"),
+            password= os.getenv("DB_PASSWORD"),
+            host= os.getenv("DB_HOST"),
+            port= os.getenv("DB_PORT"),
+            database= os.getenv("DB_NAME")
         )
 
         # Abre un cursor para ejecutar operaciones en la base de datos
