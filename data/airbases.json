@@ -1,0 +1,1058 @@
+[
+  {
+    "name": "BAM1",
+    "id": "MMMSM",
+    "longitude": -99.016,
+    "latitude": 19.75,
+    "heigh": 7366,
+    "minimums":{
+        "34MOT": {"roof": 1500, "visibility": 3},
+        "12MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM2",
+    "id": "MMMIT",
+    "longitude": -95.09,
+    "latitude": 16.45,
+    "heigh": 82,
+    "minimums":{
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM3",
+    "id": "MMMES",
+    "longitude": -116.6,
+    "latitude": 31.79,
+    "heigh": 66,
+    "minimums":{
+        "12MOT":{"roof": 200, "visibility": 1},
+        "34MOT": {"roof": 200, "visibility": 0.75}
+      }
+  },
+  {
+    "name": "BAM4",
+    "id": "MMMCZ",
+    "longitude": -86.93,
+    "latitude": 20.515,
+    "heigh": 15,
+    "minimums":{
+        "12MOT": {"roof": 200, "visibility": 0.5},
+        "34MOT": {"roof": 200, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "BAM5",
+    "id": "MMMZP",
+    "longitude": -103.45,
+    "latitude": 20.75,
+    "heigh": 5331,
+    "minimums":{
+        "12MOT": {"roof": 500, "visibility": 1.5}, 
+        "34MOT": {"roof": 500, "visibility": 1.5}
+      }
+  },
+  {
+    "name": "BAM6",
+    "id": "MMMTB",
+    "longitude": -93.17,
+    "latitude": 16.74,
+    "heigh": 1909,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM7",
+    "id": "MMMAA",
+    "longitude": -99.988,
+    "latitude": 16.91,
+    "heigh": 18,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM8",
+    "id": "MMMMD",
+    "longitude": -89.6577,
+    "latitude": 20.9369,
+    "heigh": 38,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM9",
+    "id": "MMMLP",
+    "longitude": -110.3625,
+    "latitude": 24.0727,
+    "heigh": 69,
+    "minimums":{
+        "12MOT": {"roof": 600, "visibility": 2},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM10",
+    "id": "MMMCL",
+    "longitude": -107.4744,
+    "latitude": 24.7644,
+    "heigh": 108,
+    "minimums":{
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM11",
+    "id": "MMMSG",
+    "longitude": -105.7,
+    "latitude": 27.7863,
+    "heigh": 4659,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM12",
+    "id": "MMMTJ",
+    "longitude": -116.97,
+    "latitude": 32.5408,
+    "heigh": 487,
+    "minimums":{
+        "12MOT": {"roof": 1600, "visibility": 2},
+        "34MOT": {"roof": 1600, "visibility": 2}
+      }
+  },
+  {
+    "name": "BAM13",
+    "id": "MMMCU",
+    "longitude": -105.9638,
+    "latitude": 28.7027,
+    "heigh": 4462,
+    "minimums":{
+        "12MOT": {"roof": 1200, "visibility": 3},
+        "34MOT": {"roof": 1200, "visibility": 3}
+      }
+  },
+  {
+    "name": "BAM14",
+    "id": "MMMAN",
+    "longitude": -100.2372,
+    "latitude": 25.8656,
+    "heigh": 1476,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM15",
+    "id": "MMMOX",
+    "longitude": -96.726667,
+    "latitude": 17,
+    "heigh": 4989,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM16",
+    "id": "MMMPX",
+    "longitude": -92.475,
+    "latitude": 17.88,
+    "heigh": 20,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM17",
+    "id": "MMMCO",
+    "longitude": -92.0483,
+    "latitude": 16.175,
+    "heigh": 5164,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM18",
+    "id": "MMMHO",
+    "longitude": -111.0477,
+    "latitude": 29.0958,
+    "heigh": 627,
+    "minimums":{
+        "12MOT": {"roof": 700, "visibility": 1},
+        "34MOT": {"roof": 700, "visibility": 1}
+      }
+  },
+  {
+    "name": "BAM19",
+    "id": "MMM27",
+    "longitude": -99.0719,
+    "latitude": 19.4361,
+    "heigh": 7316,
+    "minimums":{
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 1}
+      }
+  },
+  {
+    "name": "EAM2",
+    "id": "MMMGR",
+    "longitude": -114.0238,
+    "latitude": 28.0258,
+    "heigh": 59,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "EAM3",
+    "id": "MMMTC",
+    "longitude": -103.4105,
+    "latitude": 25.5680,
+    "heigh": 3688,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "EAM4",
+    "id": "MMMTM",
+    "longitude": -97.8658,
+    "latitude": 22.2963,
+    "heigh": 80,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "EAM5",
+    "id": "MMMPR",
+    "longitude": -105.2541,
+    "latitude": 20.68,
+    "heigh": 23,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "EAM6",
+    "id": "MMMIP",
+    "longitude": -101.312,
+    "latitude": 20.6733,
+    "heigh": 5700,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "EAM7",
+    "id": "MMMMT",
+    "longitude": -94.5808,
+    "latitude": 18.1036,
+    "heigh": 36,
+    "minimums":{
+        "12MOT": {"roof": 200, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "EAM8",
+    "id": "MMMLB",
+    "longitude": -95.8536,
+    "latitude": 18.0233,
+    "heigh": 90,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "EAM9",
+    "id": "MMMTA",
+    "longitude": -98.1772,
+    "latitude": 19.5317,
+    "heigh": 8229,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "EAM10",
+    "id": "MMMsAL",
+    "longitude": -99.5425,
+    "latitude": 26.3339,
+    "heigh": 206,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "ACAPULCO AIRPORT",
+    "id": "MMAA",
+    "longitude": -99.751611,
+    "latitude": 16.756028,
+    "heigh": 16,
+    "minimums": {
+        "12MOT": {"roof": 400, "visibility": 1},
+        "34MOT": {"roof": 400, "visibility": 1}
+      }
+  },
+  {
+    "name": "AGUASCALIENTES AIRPORT",
+    "id": "MMAS",
+    "longitude": -102.314577,
+    "latitude": 21.70112,
+    "heigh": 6112,
+    "minimums":{
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "HUATULCO AIRPORT",
+    "id": "MMBT",
+    "longitude": -96.2625,
+    "latitude": 15.775278,
+    "heigh": 464,
+    "minimums":{
+        "12MOT": {"roof": 500, "visibility": 1.5},
+        "34MOT": {"roof": 500, "visibility": 1.5}
+      }
+  },
+  {
+    "name": "ACUÑA AIRPORT",
+    "id": "MMCC",
+    "longitude": -101.100833,
+    "latitude": 29.333889,
+    "heigh": 1410,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "CIUDAD DEL CARMEN AIRPORT",
+    "id": "MMCE",
+    "longitude": -91.799545,
+    "latitude": 18.651963,
+    "heigh": 10,
+    "minimums":{
+        "12MOT": {"roof": 200, "visibility": 1},
+        "34MOT": {"roof": 200, "visibility": 1}
+      }
+  },
+  {
+    "name": "CULIACAN AIRPORT",
+    "id": "MMCL",
+    "longitude": -107.474444,
+    "latitude": 24.764444,
+    "heigh": 108,
+    "minimums":{
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 1}
+      }
+  },
+  {
+    "name": "CHETUMAL AIRPORT",
+    "id": "MMCM",
+    "longitude": -88.326847,
+    "latitude": 18.504667,
+    "heigh": 39,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "CIUDAD OBREGON AIRPORT",
+    "id": "MMCN",
+    "longitude": -109.833056,
+    "latitude": 27.3925,
+    "heigh": 205,
+    "minimums":{
+        "12MOT": {"roof": 400, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "CAMPECHE AIRPORT",
+    "id": "MMCP",
+    "longitude": -90.500314,
+    "latitude": 19.816794,
+    "heigh": 32,
+    "minimums":{
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "CABO SAN LUCAS AIRPORT",
+    "id": "MMSL",
+    "longitude": -109.937081,
+    "latitude": 22.9475,
+    "heigh": 692,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "CIUDAD JUAREZ AIRPORT",
+    "id": "MMCS",
+    "longitude": -106.428667,
+    "latitude": 31.636133,
+    "heigh": 3904,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "CHICHEN ITZA AIRPORT",
+    "id": "MMCT",
+    "longitude": -88.448889,
+    "latitude": 20.638611,
+    "heigh": 102,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "CHIHUAHUA AIRPORT",
+    "id": "MMCU",
+    "longitude": -105.963888,
+    "latitude": 28.702778,
+    "heigh": 4465,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "CIUDAD VICTORIA AIRPORT",
+    "id": "MMCV",
+    "longitude": -98.956389,
+    "latitude": 23.703889,
+    "heigh": 761,
+    "minimums":{
+        "12MOT": {"roof": 300, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "CUERNAVACA AIRPORT",
+    "id": "MMCB",
+    "longitude": -99.261944,
+    "latitude": 18.835,
+    "heigh": 4295,
+    "minimums":{
+        "12MOT": {"roof": 800, "visibility": 2},
+        "34MOT": {"roof": 800, "visibility": 2}
+      }
+  },
+  {
+    "name": "COZUMEL AIRPORT",
+    "id": "MMCZ",
+    "longitude": -86.928889,
+    "latitude": 20.515,
+    "heigh": 15,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "CANCUN AIRPORT",
+    "id": "MMUN",
+    "longitude": -86.876944,
+    "latitude": 21.036667,
+    "heigh": 23,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "DURANGO AIRPORT",
+    "id": "MMDO",
+    "longitude": -104.527778,
+    "latitude": 24.124167,
+    "heigh": 6104,
+    "minimums":{
+        "12MOT": {"roof": 400, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "GUADALAJARA AIRPORT",
+    "id": "MMGL",
+    "longitude": -103.311145,
+    "latitude": 20.521837,
+    "heigh": 5016,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "GUAYMAS AIRPORT",
+    "id": "MMGM",
+    "longitude": -110.92376,
+    "latitude": 27.96924,
+    "heigh": 59,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 3},
+        "34MOT": {"roof": 1000, "visibility": 3}
+      }
+  },
+  {
+    "name": "HERMOSILLO AIRPORT",
+    "id": "MMHO",
+    "longitude": -111.047778,
+    "latitude": 29.095833,
+    "heigh": 627,
+    "minimums":{
+        "12MOT": {"roof": 700, "visibility": 1},
+        "34MOT": {"roof": 700, "visibility": 1}
+      }
+  },
+  {
+    "name": "ZIHUATANEJO AIRPORT",
+    "id": "MMZH",
+    "longitude": -101.460278,
+    "latitude": 17.601389,
+    "heigh": 26,
+    "minimums":{
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "LOS MOCHIS AIRPORT",
+    "id": "MMLM",
+    "longitude": -109.0812,
+    "latitude": 25.686088,
+    "heigh": 16,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 1}
+      }
+  },
+  {
+    "name": "LEON AIRPORT",
+    "id": "MMLO",
+    "longitude": -101.480833,
+    "latitude": 20.993333,
+    "heigh": 5956,
+    "minimums":{
+        "12MOT": {"roof": 300, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "LA PAZ AIRPORT",
+    "id": "MMLP",
+    "longitude": -110.362542,
+    "latitude": 24.072747,
+    "heigh": 69,
+    "minimums":{
+        "12MOT": {"roof": 600, "visibility": 2},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "LORETO AIRPORT",
+    "id": "MMLT",
+    "longitude": -111.348333,
+    "latitude": 25.989167,
+    "heigh": 36,
+    "minimums": {
+        "12MOT": {"roof": 700, "visibility": 1},
+        "34MOT": {"roof": 700, "visibility": 1}
+      }
+  },
+  {
+    "name": "MATAMOROS AIRPORT",
+    "id": "MMMA",
+    "longitude": -97.525311,
+    "latitude": 25.769894,
+    "heigh": 26,
+    "minimums":{
+        "12MOT": {"roof": 300, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "MEXICALI AIRPORT",
+    "id": "MMML",
+    "longitude": -115.241389,
+    "latitude": 32.630556,
+    "heigh": 74,
+    "minimums": {
+        "12MOT": {"roof": 600, "visibility": 2},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "MONTERREY AIRPORT",
+    "id": "MMMY",
+    "longitude": -100.106389,
+    "latitude": 25.778333,
+    "heigh": 1276,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "MORELIA AIRPORT",
+    "id": "MMMM",
+    "longitude": -101.025278,
+    "latitude": 19.849722,
+    "heigh": 6033,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "MONCLOVA AIRPORT",
+    "id": "MMMV",
+    "longitude": -101.47,
+    "latitude": 26.955833,
+    "heigh": 1864,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "MAZATLAN AIRPORT",
+    "id": "MMMZ",
+    "longitude": -106.266072,
+    "latitude": 23.161356,
+    "heigh": 38,
+    "minimums": {
+        "12MOT": {"roof": 400, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 0.75}
+      }
+  },
+  {
+    "name": "MANZANILLO AIRPORT",
+    "id": "MMZO",
+    "longitude": -104.558611,
+    "latitude": 19.144722,
+    "heigh": 9,
+    "minimums":{
+        "12MOT": {"roof": 1300, "visibility": 2},
+        "34MOT": {"roof": 1300, "visibility": 2}
+      }
+  },
+  {
+    "name": "MINATITLAN AIRPORT",
+    "id": "MMMT",
+    "longitude": -94.580833,
+    "latitude": 18.103611,
+    "heigh": 36,
+    "minimums":{
+        "12MOT": {"roof": 200, "visibility": 1},
+        "34MOT": {"roof": 200, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "NOGALES AIRPORT",
+    "id": "MMNG",
+    "longitude": -110.975833,
+    "latitude": 31.226111,
+    "heigh": 4010,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "NUEVO LAREDO AIRPORT",
+    "id": "MMNL",
+    "longitude": -99.570556,
+    "latitude": 27.443889,
+    "heigh": 484,
+    "minimums":{
+        "12MOT": {"roof": 300, "visibility": 1.5},
+        "34MOT": {"roof": 300, "visibility": 1.5}
+      }
+  },
+  {
+    "name": "PUEBLA AIRPORT",
+    "id": "MMPB",
+    "longitude": -98.371389,
+    "latitude": 19.158056,
+    "heigh": 7361,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "PUERTO PEÑASCO AIRPORT",
+    "id": "MMPE",
+    "longitude": -113.305611,
+    "latitude": 31.352,
+    "heigh": 89,
+    "minimums":{
+        "12MOT": {"roof": 300, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "PIEDRAS NEGRAS AIRPORT",
+    "id": "MMPG",
+    "longitude": -100.534405,
+    "latitude": 28.62737,
+    "heigh": 901,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "PALENQUE AIRPORT",
+    "id": "MMPQ",
+    "longitude": -92.01559,
+    "latitude": 17.533015,
+    "heigh": 164,
+    "minimums":{
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": { "roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "PUERTO ESCONDIDO AIRPORT",
+    "id": "MMPS",
+    "longitude": -97.088889,
+    "latitude": 15.876667,
+    "heigh": 294,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "QUERETARO AIRPORT",
+    "id": "MMQT",
+    "longitude": -100.188333,
+    "latitude": 20.622222,
+    "heigh": 6296,
+    "minimums": {
+        "12MOT": {"roof": 600, "visibility": 1},
+        "34MOT": {"roof": 600, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "REYNOSA AIRPORT",
+    "id": "MMRX",
+    "longitude": -98.228611,
+    "latitude": 26.008889,
+    "heigh": 139,
+    "minimums": {
+        "12MOT": {"roof": 300, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "SALTILLO AIRPORT",
+    "id": "MMIO",
+    "longitude": -100.928611,
+    "latitude": 25.549444,
+    "heigh": 4778,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "SAN JOSE DEL CABO AIRPORT",
+    "id": "MMSD",
+    "longitude": -109.720833,
+    "latitude": 23.151667,
+    "heigh": 379,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "SAN FELIPE AIRPORT",
+    "id": "MMSF",
+    "longitude": -114.816389,
+    "latitude": 30.930278,
+    "heigh": 98,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "SAL LUIS POTOSI AIRPORT",
+    "id": "MMSP",
+    "longitude": -100.930833,
+    "latitude": 22.254444,
+    "heigh": 6035,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "TORREON AIRPORT",
+    "id": "MMTC",
+    "longitude": -103.410556,
+    "latitude": 25.568056,
+    "heigh": 3688,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "TAPACHULA AIRPORT",
+    "id": "MMTP",
+    "longitude": -92.37,
+    "latitude": 14.794444,
+    "heigh": 97,
+    "minimums": {
+        "12MOT": {"roof": 300, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "TEPIC AIRPORT",
+    "id": "MMEP",
+    "longitude": -104.842581,
+    "latitude": 21.419453,
+    "heigh": 3020,
+    "minimums": {
+        "12MOT": {"roof": 700, "visibility": 2},
+        "34MOT": {"roof": 700, "visibility": 2}
+      }
+  },
+  {
+    "name": "TOLUCA AIRPORT",
+    "id": "MMTO",
+    "longitude": -99.565833,
+    "latitude": 19.336944,
+    "heigh": 8466,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "TUXTLA GUTIERREZ AIRPORT",
+    "id": "MMTG",
+    "longitude": -93.0225,
+    "latitude": 16.563611,
+    "heigh": 1491,
+    "minimums": {
+        "12MOT": {"roof": 400, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "URUAPAN AIRPORT",
+    "id": "MMPN",
+    "longitude": -102.039167,
+    "latitude": 19.396667,
+    "heigh": 5258,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "VILLAHERMOSA AIRPORT",
+    "id": "MMVA",
+    "longitude": -92.817222,
+    "latitude": 17.995,
+    "heigh": 46,
+    "minimums": {
+        "12MOT": {"roof": 200, "visibility": 0.5},
+        "34MOT": {"roof": 200, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "VERACRUZ AIRPORT",
+    "id": "MMVR",
+    "longitude": -96.187222,
+    "latitude": 19.145833,
+    "heigh": 90,
+    "minimums": {
+        "12MOT": {"roof": 300, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      }
+  },
+  {
+    "name": "ZACATECAS AIRPORT",
+    "id": "MMZC",
+    "longitude": -102.68577,
+    "latitude": 22.897395,
+    "heigh": 7141,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      } 
+  },
+  {
+    "name": "CELAYA AIRPORT",
+    "id": "MMCY",
+    "longitude": -100.886389,
+    "latitude": 20.545833,
+    "heigh": 5709,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "COLIMA AIRPORT",
+    "id": "MMIA",
+    "longitude": -103.577222,
+    "latitude": 19.276944,
+    "heigh": 2467,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 1}
+      }
+  },
+  {
+    "name": "JALAPA AIRPORT",
+    "id": "MMJA",
+    "longitude": -96.7975,
+    "latitude": 19.475,
+    "heigh": 3136,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "NUEVO CASAS GRANDES AIRPORT",
+    "id": "MMCG",
+    "longitude": -107.883333,
+    "latitude": 30.4,
+    "heigh": 4850,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "POZA RICA AIRPORT",
+    "id": "MMPA",
+    "longitude": -97.460833,
+    "latitude": 20.6025,
+    "heigh": 497,
+    "minimums": {
+        "12MOT": {"roof": 500, "visibility": 1},
+        "34MOT": {"roof": 500, "visibility": 0.5}
+      }
+  },
+  {
+    "name": "PACHUCA AIRPORT",
+    "id": "MMPC",
+    "longitude": -98.782778,
+    "latitude": 20.074444,
+    "heigh": 7600,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "PUNTA COLORADA AIRPORT",
+    "id": "MMPL",
+    "longitude": -109.535833,
+    "latitude": 23.575,
+    "heigh": 36,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "TEHUACAN AIRPORT",
+    "id": "MMHC",
+    "longitude": -97.419722,
+    "latitude": 18.496944,
+    "heigh": 5510,
+    "minimums": {
+      "12MOT": {"roof": 1000, "visibility": 1},
+      "34MOT": {"roof": 1000, "visibility": 1}
+    }
+  },
+  {
+    "name": "TAMUIN AIRPORT",
+    "id": "MMTN",
+    "longitude": -98.806667,
+    "latitude": 22.037778,
+    "heigh": 164,
+    "minimums":  {
+        "12MOT": {"roof": 300, "visibility": 1},
+        "34MOT": {"roof": 300, "visibility": 1}
+      } 
+  },
+  {
+    "name": "ZAMORA AIRPORT",
+    "id": "MMZM",
+    "longitude": -102.271,
+    "latitude": 20.0456,
+    "heigh": 5141,
+    "minimums": {
+        "12MOT": {"roof": 1000, "visibility": 1},
+        "34MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "AIFA AIRPORT",
+    "id": "MMSM",
+    "longitude": -99.016,
+    "latitude": 19.75,
+    "heigh": 7366,
+    "minimums":{
+        "34MOT": {"roof": 1500, "visibility": 3},
+        "12MOT": {"roof": 1000, "visibility": 1}
+      }
+  },
+  {
+    "name": "MADRID AIRPORT",
+    "id": "LEMD",
+    "longitude": -3.560833,
+    "latitude": 40.472222,
+    "heigh": 7366,
+    "minimums":{
+        "34MOT": {"roof": 1500, "visibility": 3},
+        "12MOT": {"roof": 1000, "visibility": 1}
+      }
+  }
+]
