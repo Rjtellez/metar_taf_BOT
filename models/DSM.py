@@ -1,7 +1,10 @@
+import os
 import psycopg2
 from datetime import datetime, timedelta
+from dotenv import load_dotenv
 from metar_taf_parser.parser.parser import MetarParser
 
+load_dotenv()
 
 class Insert:
     
